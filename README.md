@@ -32,11 +32,7 @@
 </div>
 
  <br>
-  <p align="center">
-    Tenho conhecimento em: 👇
-  </p>
-  */
-</div>
+ 
 
 <div align="center" valign="top">
  <p align="center">
@@ -61,13 +57,12 @@
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
  <br>
-  <p align="center">
-    Contato: 👇
-  </p>
-  */
-</div>
+ 
 
 <div align="center">
+<p align="center">
+    Contato: 👇
+  </p>
  
   <a href="https://www.instagram.com/codigo.dolucas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-mattos-871242246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -79,4 +74,6 @@
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+
 
