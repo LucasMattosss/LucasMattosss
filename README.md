@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/lucas-mattos-871242246/">Lucas Mattos 😃️</a>
+    <a href="https://www.linkedin.com/in/lucas-mattos-871242246/">Lucas Mattos😁 </a>
   </h1>
   
   <p align="center">
@@ -19,7 +19,7 @@
   </p>
   
   <p align="center">
-    Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
+    Cursando  Engenharia da Computação (8º semestre)
   </p>
   */
 </div>
@@ -76,4 +76,5 @@
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
 
