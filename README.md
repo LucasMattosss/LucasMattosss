@@ -2,12 +2,12 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Eduardo Ribeiro 😃️</a>
+    <a href="https://www.linkedin.com/in/lucas-mattos-871242246/">Lucas Mattos 😃️</a>
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento e aprendizado no meu canal
-    <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
+    Sou Desenvolvedor Front End e back end. Gosto muito de compartilhar meu conhecimento e aprendizado no meu Instagram
+    <a href="https://www.instagram.com/codigo.dolucas/" target="_blank">
       <img
            width="10%" 
            align="center" 
