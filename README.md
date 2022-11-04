@@ -73,8 +73,8 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LucasMattosss}/count.svg" /></p> 
 <br>
 </div>
-   ![Snake animation](https://github.com/LucasMattosss/LucasMattosss/blob/output/github-contribution-grid-snake.svg)
-
+  ![Snake animation](https://github.com/LucasMattosss/LucasMattosss/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/LucasMattosss/LucasMattosss/blob/output/github-contribution-grid-snake.gif)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
 
