@@ -74,8 +74,8 @@
 <br>
 </div>
 <br>
- ![snake gif](https://github.com/LucasMattosss/LucasMattosss/blob/output/github-contribution-grid-snake.svg)
-<br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
+ ![Snake animation](https://github.com/LucasMattosss/LucasMattosss/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/LucasMattosss/LucasMattosss/blob/output/github-contribution-grid-snake.gif)
+</div>
 
 
