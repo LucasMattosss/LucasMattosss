@@ -31,6 +31,13 @@
   </a>
 </div>
 
+ 
+  <p align="center">
+    Tenho conhecimento em: 👇
+  </p>
+  */
+</div>
+
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
