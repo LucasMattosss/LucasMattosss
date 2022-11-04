@@ -17,11 +17,11 @@
       />
     </a>  
   </p>
-  
+  /*
   <p align="center">
     Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
   </p>
-  
+  */
 </div>
 
 <div align="center">
