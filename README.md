@@ -5,7 +5,7 @@
  <br>
   
   <p align="center">
-    Sou Desenvolvedor Front End e back end. Gosto muito de compartilhar meu conhecimento e aprendizado no meu Instagram
+    Sou Desenvolvedor Front End e back end. Gosto muito de compartilhar meu conhecimento e aprendizado no meu
     <a href="https://www.instagram.com/codigo.dolucas/" target="_blank">
       <img
            width="10%" 
